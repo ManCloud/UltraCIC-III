@@ -4,8 +4,6 @@ The original code was written by jesgdev and updated with multi-region support b
 I simply extended the version Krikzz created under the name UltraCIC-II to support automatic switching between NTSC and PAL if the console was unable to boot.
 
 # Instructions
-Select the version of CIC chip you wish to recreate by uncommenting one of the lines from 59-74 in UltraCIC_t45.asm.
-If you wish to use this on an ATTiny25 instead of an ATTiny45, comment line 122 and uncomment line 124.
 - Install avra 
 - Assemble the code
   - avra UltraCIC-III.asm -d {MCU}
@@ -17,5 +15,7 @@ If you wish to use this on an ATTiny25 instead of an ATTiny45, comment line 122 
   
 # More Information
 [Sources for UltraCIC-II](https://web.archive.org/web/20180701050159/https://krikzz.com/pub/support/everdrive-64/ultracic2/)
+
 [Multi-region patch information](https://krikzz.com/forum/index.php?topic=3450.0)
+
 [Assembly guide](https://bitwise.bperki.com/2019/01/12/repairing-an-n64-cartridge-without-blowing-in-it/)
