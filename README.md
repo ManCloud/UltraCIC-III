@@ -19,3 +19,8 @@ I simply extended the version Krikzz created under the name UltraCIC-II to suppo
 [Multi-region patch information](https://krikzz.com/forum/index.php?topic=3450.0)
 
 [Assembly guide by perkinsb1024](https://bitwise.bperki.com/2019/01/12/repairing-an-n64-cartridge-without-blowing-in-it/)
+
+# PCB
+see [pcb](pcb/) subfolder
+
+![Preview of UltraCIC-III](UltraCIC-III.png)
